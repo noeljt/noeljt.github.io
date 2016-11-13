@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root>
+	<lab>
+		<name>lab1</name>
+		<desc>lab1 desc.</desc>
+		<url>/labs/lab1</url>
+	</lab>
+	<lab>
+		<name>lab2</name>
+		<desc>lab2 desc.</desc>
+		<url>/labs/lab2</url>
+	</lab>
+	<lab>
+		<name>lab3</name>
+		<desc>lab3 desc.</desc>
+		<url>/labs/lab3</url>
+	</lab>
+	<lab>
+		<name>lab4</name>
+		<desc>lab4 desc.</desc>
+		<url>/labs/lab4</url>
+	</lab>
+	<lab>
+		<name>lab5</name>
+		<desc>lab5 desc.</desc>
+		<url>/labs/lab5</url>
+	</lab>
+	<lab>
+		<name>lab6</name>
+		<desc>lab6 desc.</desc>
+		<url>/labs/lab6/lab6start.php</url>
+	</lab>
+	<lab>
+		<name>lab7</name>
+		<desc>lab7 desc.</desc>
+		<url>/labs/lab7</url>
+	</lab>
+	<lab>
+		<name>lab8</name>
+		<desc>lab8 desc.</desc>
+		<url>/labs/lab8/websyslab8.txt</url>
+	</lab>
+	<lab>
+		<name>lab9</name>
+		<desc>lab9 desc.</desc>
+		<url>/labs/lab9</url>
+	</lab>
+	<lab>
+		<name>lab10</name>
+		<desc>lab10 desc.</desc>
+		<url>/labs/lab10</url>
+	</lab>
+
+	<hw>
+		<name>homework1</name>
+		<desc>homework1 desc.</desc>
+		<url>/homeworks/homework1</url>
+	</hw>
+	<hw>
+		<name>homework2</name>
+		<desc>homework2 desc.</desc>
+		<url>/homeworks/homework2</url>
+	</hw>
+
+</root>
