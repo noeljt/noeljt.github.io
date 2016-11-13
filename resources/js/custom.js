@@ -22,6 +22,8 @@ var config = {
 window.sr = new ScrollReveal(config);
 // Make progressbar value appear on viewport
 sr.reveal("#progressBar > .ui-progressbar-value");
+sr.reveal(".service-item");
+sr.reveal(".portfolio-item");
 
 console.log("start");
 var data = new XMLHttpRequest();
